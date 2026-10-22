@@ -1,7 +1,0 @@
-Use the connected Caido MCP to analyze existing traffic for [authorized host or request IDs].
-
-Focus on [workflow or suspected vulnerability]. The applicable policy is [attached policy], and the controlled accounts are [account labels and roles, without secrets].
-
-First inspect the available MCP tools, then retrieve the relevant requests and responses. Reconstruct the workflow and compare expected versus observed authorization behavior.
-
-Return evidence-backed candidates with Caido request IDs, confidence, missing evidence, and the smallest next validation step. Inspect existing traffic only; do not send or replay requests.
