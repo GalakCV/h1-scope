@@ -1,6 +1,6 @@
 # h1-scope
 
-Exporta a política, os ativos e as exclusões de programas da HackerOne para Markdown, pronto para consulta pelo Strix. Também salva um JSON com os dados originais da API, percorrendo toda a paginação.
+Exporta a política, os ativos e as exclusões de programas da HackerOne para Markdown, pronto para consulta por um agente. Também salva um JSON com os dados originais da API, percorrendo toda a paginação.
 
 ## Uso
 
